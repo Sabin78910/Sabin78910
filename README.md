@@ -15,12 +15,12 @@ I build the internal platforms a regulated finance company runs on (HR, correspo
 using **Python, Flask, PostgreSQL and REST APIs**, and I test my own work before it ships.
 I started in QA, so I write code thinking about how it could break.
 
-| | |
-|---|---|
-| **Now** | Transaction & Digital Banking team, Best Finance Company (since Jun 2026) |
-| **Building** | Employee Appraisal System · Letter Management System · maintaining the Digital Lending System |
-| **Education** | BSc (Hons) Computing, Leeds Beckett University (UK), delivered at The British College, Kathmandu (2025) |
-| **Open to** | Software engineering and QA roles in backend, data and full-stack teams |
+<table>
+  <tr><td><b>Now</b></td><td>Transaction &amp; Digital Banking team, Best Finance Company (since Jun 2026)</td></tr>
+  <tr><td><b>Building</b></td><td>Employee Appraisal System · Letter Management System · maintaining the Digital Lending System</td></tr>
+  <tr><td><b>Education</b></td><td>BSc (Hons) Computing, Leeds Beckett University (UK), delivered at The British College, Kathmandu (2025)</td></tr>
+  <tr><td><b>Open to</b></td><td>Software engineering and QA roles in backend, data and full-stack teams</td></tr>
+</table>
 
 ### Tech stack
 
