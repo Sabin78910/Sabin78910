@@ -58,7 +58,7 @@ I'm a **Backend & Web Developer** at **Best Finance Company Ltd.** in Kathmandu,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="assets/stats-languages.svg" width="49%" alt="Languages across featured projects">
+  <img src="assets/stats-languages.svg" width="49%" alt="Languages across my main projects">
   <img src="assets/stats-streak.svg" width="49%" alt="Total contributions, current streak and longest streak">
 </p>
 <p align="center"><sub>Updated daily by a GitHub Action in this repo. Languages are weighted across my main projects: GrocerEase, Concrete Strength, Pet Marketplace and Android.</sub></p>
