@@ -9,13 +9,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Backend & Web Developer** at **Best Finance Company Ltd.** in Kathmandu, Nepal. I build the internal platforms a regulated finance company runs on (HR, correspondence and lending) with **Python, Flask, PostgreSQL and REST APIs**, and I test my own work before it ships.
+* BSc (Hons) in Computing graduate from [The British College](https://www.thebritishcollege.edu.np/)
+* Currently developing expertise in Data Analysis, Deep Learning, and Machine Learning algorithms and Automation
+* Seeking opportunities to collaborate on open-source projects
+* Portfolio: [sabinkhanal13.com.np](https://sabinkhanal13.com.np/)
 
-- 🔭 **Working on:** Employee Appraisal System, Letter Management System and the Digital Lending System (Transaction & Digital Banking team)
-- 🧪 **QA mindset:** functional, UAT and production testing. I write code thinking about how it could break
-- 🛠️ **Stack:** Python, Flask, FastAPI, PostgreSQL, REST APIs, pytest, Docker, AWS
-- 🎓 **Education:** BSc (Hons) Computing, Leeds Beckett University (UK), 2025
-- 💼 **Open to:** software engineering and QA roles in backend, data and full-stack teams
+Contact: [sabinkhanal13@gmail.com](mailto:sabinkhanal13@gmail.com)
 
 ---
 
