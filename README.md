@@ -6,7 +6,7 @@
   <a href="mailto:sabinkhanal13@gmail.com">sabinkhanal13@gmail.com</a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Sabin78910&label=Profile%20Views&color=4f46e5&style=flat-square" alt="Profile views"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sabin78910&label=Profile%20Views&color=4f46e5&style=flat-square" alt="Profile views"></p>
 
 ---
 
