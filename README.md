@@ -44,4 +44,4 @@ I started in QA, so I write code thinking about how it could break.
 
 **Correct before clever** · **Secure by default** · **Tested before shipped**
 
-<p align="center"><sub>Kathmandu, Nepal · UTC+5:45 · open to remote and on-site roles</sub></p>
+<p align="center"><sub>Kathmandu, Nepal · UTC+5:45</sub></p>
