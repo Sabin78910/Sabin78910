@@ -5,7 +5,7 @@ import { writeFileSync } from 'node:fs';
 import assert from 'node:assert/strict';
 
 const LOGIN = 'Sabin78910';
-// Languages are counted only across the projects featured on the profile, not every repo on the account.
+// Languages are counted only across my main projects, not every repo on the account.
 const FEATURED = ['GrocerEase', 'concrete-strength-analysis', 'laravel-product-management', 'android-compose-projects'];
 const ALIAS = { Hack: 'PHP' }; // GitHub's language detector labels some .php files as Hack
 const COLORS = { PHP: '#4F5D95', Kotlin: '#A97BFF', R: '#198CE7', JavaScript: '#F1E05A', HTML: '#E34C26', CSS: '#663399', SCSS: '#C6538C', Blade: '#F7523F', Python: '#3572A5', TypeScript: '#3178C6' };
@@ -83,8 +83,8 @@ export function languagesSvg(shares) {
   const bar = top.map((l) => { const w = (bw * l.pct) / top.reduce((s, t) => s + t.pct, 0); const r = `<rect x="${x.toFixed(2)}" y="66" width="${Math.max(w - 2, 1).toFixed(2)}" height="10" fill="${COLORS[l.name] ?? T.muted}"/>`; x += w; return r; }).join('');
   const legend = top.map((l, i) => { const cx = bx + (i % 2) * 225, cy = 106 + Math.floor(i / 2) * 22;
     return `<circle cx="${cx + 5}" cy="${cy - 4}" r="5" fill="${COLORS[l.name] ?? T.muted}"/><text x="${cx + 18}" y="${cy}" font-size="13" fill="${T.text}">${esc(l.name)} <tspan fill="${T.muted}">${l.pct.toFixed(1)}%</tspan></text>`; }).join('');
-  return frame(W, H, `Languages across featured projects: ${top.map((l) => `${l.name} ${l.pct.toFixed(1)}%`).join(', ')}`,
-    `<text x="25" y="36" font-size="17" font-weight="600" fill="${T.text}">Languages</text><text x="${W - 25}" y="36" text-anchor="end" font-size="12" fill="${T.muted}">across featured projects</text>
+  return frame(W, H, `Languages across my main projects: ${top.map((l) => `${l.name} ${l.pct.toFixed(1)}%`).join(', ')}`,
+    `<text x="25" y="36" font-size="17" font-weight="600" fill="${T.text}">Languages</text><text x="${W - 25}" y="36" text-anchor="end" font-size="12" fill="${T.muted}">across my main projects</text>
 <clipPath id="bar"><rect x="${bx}" y="66" width="${bw}" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">${bar}</g>${legend}`);
 }
 
