@@ -1,12 +1,9 @@
-<a href="https://sabinkhanal.com.np"><img src="assets/hero.svg" width="100%" alt="Sabin Khanal, Backend & Web Developer at Best Finance Company in Kathmandu, Nepal. I engineer secure, reliable backend systems with Python, Flask, FastAPI, PostgreSQL and REST APIs."></a>
+<img src="assets/hero.svg" width="100%" alt="Sabin Khanal, Backend & Web Developer at Best Finance Company in Kathmandu, Nepal. I engineer secure, reliable backend systems with Python, Flask, FastAPI, PostgreSQL and REST APIs.">
 
 <p align="center">
-  <a href="https://sabinkhanal.com.np"><b>sabinkhanal.com.np</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/sabin-khanal-950163326">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:sabinkhanal13@gmail.com">sabinkhanal13@gmail.com</a>
 </p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sabin78910&label=Profile%20Views&color=4f46e5&style=flat-square" alt="Profile views"></p>
 
 ---
 
