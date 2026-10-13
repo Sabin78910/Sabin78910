@@ -55,24 +55,13 @@ I'm a **Backend & Web Developer** at **Best Finance Company Ltd.** in Kathmandu,
 
 ---
 
-### 🚀 Featured Work
-
-<p>
-  <a href="https://github.com/Sabin78910/GrocerEase"><img src="assets/card-grocerease.svg" width="49%" alt="GrocerEase: multi-vendor marketplace with an Oracle schema, APEX dashboards, PayPal checkout and OTP. PHP, Oracle, JavaScript."></a>
-  <a href="https://github.com/Sabin78910/concrete-strength-analysis"><img src="assets/card-concrete.svg" width="49%" alt="Concrete Compressive Strength: R pipeline with MICE imputation, IQR outliers, scaling and PCA."></a>
-  <a href="https://github.com/Sabin78910/laravel-product-management"><img src="assets/card-pet-marketplace.svg" width="49%" alt="Pet Marketplace: Laravel REST API with a React and Redux Toolkit single-page app."></a>
-  <a href="https://github.com/Sabin78910/android-compose-projects"><img src="assets/card-android.svg" width="49%" alt="Android with Jetpack Compose: Kotlin apps including Dice Roller, Affirmations, Woof and Mars Photos."></a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="assets/stats-languages.svg" width="49%" alt="Languages across featured projects">
   <img src="assets/stats-streak.svg" width="49%" alt="Total contributions, current streak and longest streak">
 </p>
-<p align="center"><sub>Updated daily by a GitHub Action in this repo. Languages are weighted across the featured projects above.</sub></p>
+<p align="center"><sub>Updated daily by a GitHub Action in this repo. Languages are weighted across my main projects: GrocerEase, Concrete Strength, Pet Marketplace and Android.</sub></p>
 
 <br>
 
