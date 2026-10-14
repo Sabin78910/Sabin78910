@@ -1,9 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Sabin Khanal, Backend & Web Developer at Best Finance Company in Kathmandu, Nepal. I engineer secure, reliable backend systems with Python, Flask, FastAPI, PostgreSQL and REST APIs.">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sabin-khanal-950163326">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:sabinkhanal13@gmail.com">sabinkhanal13@gmail.com</a>
-</p>
 
 ---
 
