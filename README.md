@@ -4,9 +4,10 @@
 
 ### 👨‍💻 About Me
 
-* BSc (Hons) in Computing graduate from [The British College](https://www.thebritishcollege.edu.np/)
-* Currently developing expertise in Data Analysis, Deep Learning, and Machine Learning algorithms and Automation
-* Seeking opportunities to collaborate on open-source projects
+* Software engineer focused on AI, APIs and automation, with 3+ years across software development, project management and technical support
+* Open to **AI / ML software engineer** roles
+* BSc (Hons) Computing, Leeds Beckett University ([The British College](https://www.thebritishcollege.edu.np/))
+* Featured work: [house-price-ml](https://github.com/Sabin78910/house-price-ml) (scikit-learn pipeline, model card, tests) · [private-pdf](https://github.com/Sabin78910/private-pdf) (offline OCR, Nepali + English) · [khabar-pulse](https://github.com/Sabin78910/khabar-pulse) (news dedupe and clustering pipeline)
 * Portfolio: [sabinkhanal13.com.np](https://sabinkhanal13.com.np/)
 
 Contact: [sabinkhanal13@gmail.com](mailto:sabinkhanal13@gmail.com)

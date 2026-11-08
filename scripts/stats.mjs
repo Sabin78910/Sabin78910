@@ -6,7 +6,7 @@ import assert from 'node:assert/strict';
 
 const LOGIN = 'Sabin78910';
 // Languages are counted only across my main projects, not every repo on the account.
-const FEATURED = ['GrocerEase', 'concrete-strength-analysis', 'laravel-product-management', 'android-compose-projects'];
+const FEATURED = ['house-price-ml', 'private-pdf', 'khabar-pulse', 'nepse-lens', 'sync-api', 'concrete-strength-analysis'];
 const ALIAS = { Hack: 'PHP' }; // GitHub's language detector labels some .php files as Hack
 const COLORS = { PHP: '#4F5D95', Kotlin: '#A97BFF', R: '#198CE7', JavaScript: '#F1E05A', HTML: '#E34C26', CSS: '#663399', SCSS: '#C6538C', Blade: '#F7523F', Python: '#3572A5', TypeScript: '#3178C6' };
 const T = { bg: '#0D1324', bg2: '#070B16', text: '#E8ECF4', muted: '#9AA4B8', line: 'rgba(255,255,255,0.09)', g1: '#A5B4FC', g2: '#818CF8', g3: '#22D3EE' };
